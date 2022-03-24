@@ -1,0 +1,6 @@
+averageBlur: 1
+chromaticAberration: 4
+sepiaTone: 0.10
+scanLines: 0.45
+brightness: 25
+contrast: 25
