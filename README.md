@@ -21,16 +21,16 @@ Features this program has:
 ## 📷 Screenshots
 
 ### Loading Image
-![Image Name](./.github/images/loading.gif?raw=true)
+![Loading Image](./.github/images/loading.gif?raw=true)
 
 ### Applying Filter
-![Image Name](./.github/images/filter.gif?raw=true)
+![Applying Filter](./.github/images/filter.gif?raw=true)
 
 ### Applying Preset
-![Image Name](./.github/images/preset.gif?raw=true)
+![Applying Preset](./.github/images/preset.gif?raw=true)
 
 ### Saving Image
-![Image Name](./.github/images/saving.gif?raw=true)
+![Saving Image](./.github/images/saving.gif?raw=true)
 
 ## ⚡ Getting Started
 
