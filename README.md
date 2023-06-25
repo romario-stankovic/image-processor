@@ -1,17 +1,17 @@
 <h1 align="center">Image Processor</h1>
 
-This project was given as a final exam from "Object Oriented Programming 2" at Singidunum University. The goal of this course was to continue with OOP concepts that were taught before through Java.
+"Image Processor" is a final exam project from the "Object Oriented Programming 2" course at Singidunum University. The course was designed to teach students about OOP concepts through C++. To combine the knowledge gained from the course, the students were tasked with creating a program that uses OOP concepts.
 
-The project had a free topic and it required that we use OOP concepts learned throughout the course. As the subject of the project, I decided to make a Image Processing program that takes an input image and applies one or more filters on said image and save it back to the file system.
+The project had a free topic and it required that we use OOP concepts learned throughout the course. The topic was an Image Processing program that takes an input image and applies one or more various filters over the image, after which it can be saved again back on the file system. The programs contains a menu that allows the user to select the image, apply filters, save the image, and save the filter settings as a preset.
 
 ## 💡 Features
 
 Features this program has:
 
-- Save/Load 32-bit and 24-bit BMP images
-- Apply various filters onto the image
-- Menu
-- Creating filter presets
+- Saving/Loading 32-bit and 24-bit Bitmap (.bmp) images
+- Application of various filters
+- Console menu
+- Creation of filter presets
 
 ## 🧰 Languages & Tools
 
@@ -21,16 +21,16 @@ Features this program has:
 ## 📷 Screenshots
 
 ### Loading Image
-![Loading Image](./.github/images/loading.gif?raw=true)
+![Loading Image](.github/images/loading.gif?raw=true)
 
 ### Applying Filter
-![Applying Filter](./.github/images/filter.gif?raw=true)
+![Applying Filter](.github/images/filter.gif?raw=true)
 
 ### Applying Preset
-![Applying Preset](./.github/images/preset.gif?raw=true)
+![Applying Preset](.github/images/preset.gif?raw=true)
 
 ### Saving Image
-![Saving Image](./.github/images/saving.gif?raw=true)
+![Saving Image](.github/images/saving.gif?raw=true)
 
 ## ⚡ Getting Started
 
